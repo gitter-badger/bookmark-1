@@ -1,6 +1,8 @@
 questionsJs
 ====
 
+[![Join the chat at https://gitter.im/hunkim/bookmark](https://badges.gitter.im/hunkim/bookmark.svg)](https://gitter.im/hunkim/bookmark?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Inspired by Firebase & AngularJS TodoMVC Example
 #### Chat
 [![Gitter chat](https://badges.gitter.im/angular-ui/angular-google-maps.svg)](https://gitter.im/hunkim/bookmark)
